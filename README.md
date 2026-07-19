@@ -14,8 +14,6 @@
 ##  System Architecture
 
 
-```
-
 Financial Text Streams / Raw Corporate PDF Filename Input
 │
 ▼
@@ -78,18 +76,18 @@ Financial Text Streams / Raw Corporate PDF Filename Input
 
 | Cell # | Type | Target Context Module | Technical Core Purpose |
 | :--- | :--- | :--- | :--- |
-| **Cell 1** | 📝 Markdown | **Project Introduction** | System summary badges, feature indices, and blueprint architectures. |
-| **Cell 2** | 💻 Code | **Package Downloads** | Silent environments hydrations (`%pip install`) of GenAI, pdfplumber, and dependencies. |
-| **Cell 3** | 💻 Code | **Global Setup** | Library imports, configuration dictionaries, and data classes blueprints definition fields. |
-| **Cell 4** | 💻 Code | **Document Parsing** | Implements `FinancialDocParser` extracting balance sheets metrics. |
-| **Cell 5** | 💻 Code | **Ratio Calculations** | Implements `RatioAnalyzer` with internal benchmarks tracking logic matrices. |
-| **Cell 6** | 💻 Code | **Pipeline Orchestration** | Defines `FinancialReportAnalyzerAgent` managing subplots visualizers and CAGR trends. |
-| **Cell 7** | 💻 Code | **Diagnostics Execution** | Validates the pipeline using a try-except layer protecting against external endpoint caps. |
-| **Cell 8** | 💻 Code | **Gradio App Layout** | Launches the complete interactive investment matrix platform dashboard right inside browser view windows. |
+| **Cell 1** |  Markdown | **Project Introduction** | System summary badges, feature indices, and blueprint architectures. |
+| **Cell 2** |  Code | **Package Downloads** | Silent environments hydrations (`%pip install`) of GenAI, pdfplumber, and dependencies. |
+| **Cell 3** |  Code | **Global Setup** | Library imports, configuration dictionaries, and data classes blueprints definition fields. |
+| **Cell 4** |  Code | **Document Parsing** | Implements `FinancialDocParser` extracting balance sheets metrics. |
+| **Cell 5** |  Code | **Ratio Calculations** | Implements `RatioAnalyzer` with internal benchmarks tracking logic matrices. |
+| **Cell 6** |  Code | **Pipeline Orchestration** | Defines `FinancialReportAnalyzerAgent` managing subplots visualizers and CAGR trends. |
+| **Cell 7** |  Code | **Diagnostics Execution** | Validates the pipeline using a try-except layer protecting against external endpoint caps. |
+| **Cell 8** |  Code | **Gradio App Layout** | Launches the complete interactive investment matrix platform dashboard right inside browser view windows. |
 
 ---
 
-## ⚙️ Installation & Environment Setup
+##  Installation & Environment Setup
 
 ### 1. Build Local Workspace Target
 ```bash
@@ -117,7 +115,7 @@ os.environ["GEMINI_API_KEY"] = "AIzaSyYourSecretKeyStringHere"
 
 ---
 
-## 📁 Project Directory Architecture
+##  Project Directory Architecture
 
 ```text
 Financial_Report_Analyzer/
@@ -132,7 +130,7 @@ Financial_Report_Analyzer/
 
 ---
 
-## 👤 Author
+##  Author
 
 **Divya** — AI/ML & FinTech Developer | B.Tech Electronics & Telecom
 
