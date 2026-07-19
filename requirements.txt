@@ -1,0 +1,15 @@
+# ── Core Generative AI System Layer ────────────────────────
+google-generativeai>=0.8.0
+
+# ── Document Plumber & Extraction Tooling ──────────────────
+pdfplumber>=0.11.0
+
+# ── Data Analytical Processing Frameworks ──────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# ── Graphical Presentation & Visual App Containers ─────────
+matplotlib>=3.8.0
+rich>=13.7.0
+gradio>=6.0.0
