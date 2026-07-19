@@ -7,11 +7,11 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen.svg)]()
 
-> 🚀 An interactive automated quantitative financial validation engine combining mathematical matrix evaluations, polyfit trend indicators, and Google Gemini 2.5-Flash structured JSON blueprints to deliver balance sheet extractions, ratio scoring grids, accounting anomaly tracking registries, and buy/hold/sell risk thesis outputs.
+>  An interactive automated quantitative financial validation engine combining mathematical matrix evaluations, polyfit trend indicators, and Google Gemini 2.5-Flash structured JSON blueprints to deliver balance sheet extractions, ratio scoring grids, accounting anomaly tracking registries, and buy/hold/sell risk thesis outputs.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 
 ```
@@ -54,7 +54,7 @@ Financial Text Streams / Raw Corporate PDF Filename Input
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **Multimodal JSON Data Extractor:** Converts raw tabular PDF string vectors into fully typed, standardized data blueprints seamlessly via the Gemini API.
 * **Algorithmic Fundamental Benchmarker:** Computes margins, return-on-equity indices, operational liquidity bounds, and interest coverage rates automatically.
@@ -64,7 +64,7 @@ Financial Text Streams / Raw Corporate PDF Filename Input
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **AI Processing Engine:** Google Gemini 2.5-Flash (`google-generativeai`)
 * **Document Extraction Core:** Local text extraction parsing engine via `pdfplumber`
@@ -74,7 +74,7 @@ Financial Text Streams / Raw Corporate PDF Filename Input
 
 ---
 
-## 📊 Jupyter Cell Sequence Blueprint
+##  Jupyter Cell Sequence Blueprint
 
 | Cell # | Type | Target Context Module | Technical Core Purpose |
 | :--- | :--- | :--- | :--- |
