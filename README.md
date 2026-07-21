@@ -1,6 +1,6 @@
 
 ```markdown
-# Financial Report Analyzer
+# Financial Report Analyzer.
 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
