@@ -135,6 +135,4 @@ Financial_Report_Analyzer/
 
 **Divya** — AI/ML & FinTech Developer | B.Tech Electronics & Telecom
 
-```
 
-```
